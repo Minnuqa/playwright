@@ -3,3 +3,6 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 /playwright/tests-examples
+/test1.zip/
+test1.zip
+*
